@@ -1,0 +1,23 @@
+{
+  "hash": "16cd44d9",
+  "browserHash": "42fea1aa",
+  "optimized": {
+    "tw-elements": {
+      "src": "../../tw-elements/dist/js/tw-elements.es.min.js",
+      "file": "tw-elements.js",
+      "fileHash": "fc891019",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chart.es-XXRIIEE6": {
+      "file": "chart__es-XXRIIEE6.js"
+    },
+    "chartjs-plugin-datalabels.es-EJAJLYD7": {
+      "file": "chartjs-plugin-datalabels__es-EJAJLYD7.js"
+    },
+    "chunk-4QSFQCS4": {
+      "file": "chunk-4QSFQCS4.js"
+    }
+  }
+}
